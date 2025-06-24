@@ -4,7 +4,7 @@
 
 **Changed:**
 
-* <news item>
+* No news added: Update LICENSE.rst, remove mention of other org and use 2025.
 
 **Deprecated:**
 
